@@ -1,4 +1,3 @@
-# pmnm-hocphan
 # Kho Học Phần Phần Mềm Mã Nguồn Mở (`pmnm-hocphan`)
 
 ## Thông tin sinh viên
