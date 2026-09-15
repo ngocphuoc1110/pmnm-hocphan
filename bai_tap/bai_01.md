@@ -1,8 +1,8 @@
 # BÀI TẬP 1: TỔNG QUAN PHẦN MỀM TỰ DO VÀ MÃ NGUỒN MỞ
 
 - **Họ và tên:** Hồ Ngọc Phước
-- **Mã sinh viên:** [Điền Mã Sinh Viên của bạn]
-- **Lớp:** [Điền Tên Lớp của bạn]
+- **Mã sinh viên:** 23T1020405
+- **Lớp:** Phần mềm mã nguồn mở - Nhóm 1
 - **Kho lưu trữ:** `pmnm-hocphan`
 - **Đường dẫn file:** `bai_tap/bai_01.md`
 
