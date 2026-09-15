@@ -14,3 +14,6 @@ Tôi muốn học về phần mềm mã nguồn mở để hiểu rõ kiến tr�
 3. **MySQL** — Giấy phép: *GNU General Public License v2 (GPLv2)*
 4. **Eclipse IDE** — Giấy phép: *Eclipse Public License 2.0 (EPL 2.0)*
 5. **7-Zip** — Giấy phép: *GNU Lesser General Public License (LGPL)*
+## Giấy phép
+Mã nguồn trong kho này được phát hành theo [Giấy phép MIT](LICENSE).
+SPDX-License-Identifier: MIT
